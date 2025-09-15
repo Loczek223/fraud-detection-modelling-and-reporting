@@ -12,7 +12,7 @@ The IEEE-CIS Fraud Detection datasets simulate credit card fraud. Visit [IEEE-CI
 
 ## Keywords
 
-Fraud Detection, Logistic Regression, Random Forest, Isolation Forest, XGBoost, LightBGM
+Fraud Detection, Logistic Regression, Random Forest, Isolation Forest, XGBoost, LightGBM
 
 ## Related Contents
 [Fraud Detection in E-Commerce Dataset (SQL)](https://github.com/mrlizhaozhi/fraud-detection-ecommerce-sql): Using advanced PostgreSQL queries to research fraud detection questions.
