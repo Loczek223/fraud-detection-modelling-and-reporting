@@ -1,5 +1,7 @@
 # Fraud Detection Modelling and Reporting
 
+**Click [Customer Retention Hypothesis Testing and Modelling](https://github.com/mrlizhaozhi/customer-retention-hypothesis-testing-modelling) for additional Python analysis, reporting, and modelling samples.**
+
 ## Background
 
 Data-driven fraud detection reveals fraud patterns and predicts future fraud activities to safeguard customer assets in banking. This research analyses anonimised real-world fraud datasets, reports insights via dashboards, and models fraud patterns to predict future fraud activities.
